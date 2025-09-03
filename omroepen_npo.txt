@@ -1,0 +1,56 @@
+! name: publieke-zenders-npo-sites-prio
+! description: Sites van de omroepen op de publieke sites worden zoveel mogelijk geprioriteerd bij de resultaten 
+! public: true
+! author: BA 00 31 06 33 31 48 03
+
+boost=9,site=npo.nl/npo-1
+boost=9,site=npo.nl/npo-2
+boost=9,site=npo.nl/npo-3
+boost=9,site=zappelin.nl
+boost=9,site=zapp.nl
+boost=9,site=npo.nl/start
+boost=9,site=npo.nl/npo-1-extra
+boost=9,site=npo.nl/npo-2-extra
+boost=9,site=npo.nl/npo-politiek-en-nieuws
+boost=9,site=bvn.tv
+boost=9,site=nporadio1.nl
+boost=9,site=nporadio2.nl
+boost=9,site=npo3fm.nl
+boost=9,site=npoklassiek.nl
+boost=9,site=nporadio5.nl
+boost=9,site=npofunx.nl
+boost=9,site=npoluister.nl
+boost=9,site=nposoulenjazz.nl
+boost=9,site=npocampus.nl
+boost=9,site=nposterrennl.nl
+boost=9,site=npoblend.nl
+boost=9,site=avrotros.nl
+boost=9,site=bnnvara.nl
+boost=9,site=eo.nl
+boost=9,site=human.nl
+boost=9,site=kro-ncrv.nl
+boost=9,site=omroepmax.nl
+boost=9,site=nos.nl
+boost=9,site=ntr.nl
+boost=9,site=powned.tv
+boost=9,site=vpro.nl
+boost=9,site=omroepwnl.nl
+boost=9,site=ongehoordnederland.nl
+boost=9,site=maxvandaag.nl
+boost=9,site=kinderprogramma.nl
+boost=9,site=3opreis.nl
+boost=9,site=schooltv.nl
+boost=9,site=at5.nl
+boost=9,site=l1.nl
+boost=9,site=nhnieuws.nl
+boost=9,site=omroepbrabant.nl
+boost=9,site=flevoland.nl
+boost=9,site=omroepzeeland.nl
+boost=9,site=omropfryslan.nl
+boost=9,site=rtvdrenthe.nl
+boost=9,site=rtvnoord.nl
+boost=9,site=rtvoost.nl
+boost=9,site=rtvrijnmond.nl
+boost=9,site=omroepwest.nl
+boost=9,site=rtvutrecht.nl
+boost=9,site=gld.nl
