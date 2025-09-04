@@ -1,7 +1,8 @@
 ! name: publieke-zenders-npo-sites-prio
 ! description: Sites van de omroepen op de publieke sites worden zoveel mogelijk geprioriteerd bij de resultaten 
 ! public: true
-! author: BA 00 31 06 33 31 48 03
+! author: BA 00 31 06 33 31 48 03 Alleen signal app
+
 
 $boost=9,site=npo.nl
 $boost=9,site=zappelin.nl
